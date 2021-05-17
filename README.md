@@ -1,1 +1,2 @@
 # exercisedesign
+prefer desktop view
